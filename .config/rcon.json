@@ -1,0 +1,8 @@
+{
+    "default": {
+        "host": "mc-aws.jef.asia",
+        "port": 25575,
+        "password": "jef",
+        "timeout": 5000
+    }
+}
